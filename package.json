@@ -8,7 +8,7 @@
     "start": "npm run build && node dist/index.js"
   },
   "dependencies": {
-    "@iarna/toml": "^2.2.5",
+    "@iarna/toml": "^3.0.0",
     "axios": "^0.27.2",
     "chalk": "^4.1.2",
     "class-validator": "^0.13.2",
