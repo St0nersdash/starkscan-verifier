@@ -12,7 +12,7 @@
     "axios": "^0.27.2",
     "chalk": "^4.1.2",
     "class-validator": "^0.13.2",
-    "inquirer": "^8.2.5",
+    "inquirer": "^9.1.4",
     "inquirer-fuzzy-path": "^2.3.0",
     "inquirer-search-list": "^1.2.6",
     "ora": "^6.1.2",
