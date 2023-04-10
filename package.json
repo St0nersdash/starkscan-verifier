@@ -16,7 +16,7 @@
     "inquirer-fuzzy-path": "^2.3.0",
     "inquirer-search-list": "^1.2.6",
     "ora": "^6.1.2",
-    "starknet": "^4.21.1"
+    "starknet": "^5.2.0"
   },
   "devDependencies": {
     "@types/inquirer": "^9.0.1",
